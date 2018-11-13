@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: b0cac4cd31844c0b8ff8c4e9861e9366
+timeCreated: 1533220020
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreenCubeSprite: {fileID: 21300000, guid: 0b721a1b15ffd4a1eb654d6152d27ad2, type: 3}
+  - GreenCubeBombHintSprite: {fileID: 21300000, guid: 3efa1847add28430dbc79043095ee5c6,
+      type: 3}
+  - YellowCubeSprite: {fileID: 21300000, guid: 13ccc1d493d57401b80125c8373b5258, type: 3}
+  - YellowCubeBombHintSprite: {fileID: 21300000, guid: f06fb65006eda42468ba9f5774302099,
+      type: 3}
+  - BlueCubeSprite: {fileID: 21300000, guid: f7c15f06c5fdb47408d0e48028756476, type: 3}
+  - BlueCubeBombHintSprite: {fileID: 21300000, guid: edac966d9e9f24a3996f949935aebaa0,
+      type: 3}
+  - RedCubeSprite: {fileID: 21300000, guid: 1b2f0de131ec74bd4a243b05e3e393e3, type: 3}
+  - RedCubeBombHintSprite: {fileID: 21300000, guid: 37619d9e764f04a8aa5f7b46762c52ff,
+      type: 3}
+  - BalloonSprite: {fileID: 21300000, guid: e21f3f5cedb4e47e99bf2fe27eb3f4ab, type: 3}
+  - CrateLayer1Sprite: {fileID: 21300000, guid: f4505fdc0ad3442248ef3238ab6d2582,
+      type: 3}
+  - CrateLayer2Sprite: {fileID: 21300000, guid: be0c8c983aa58470f8e4139d2f50667f,
+      type: 3}
+  - BombSprite: {fileID: 21300000, guid: 3c311f4889dfa4aefa26edda46533de4, type: 3}
+  - RocketSprite: {fileID: 21300000, guid: 8c35340463d6f4dea97d270491188352, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e69f4970a6fdb4f6aac196458243acb8
+timeCreated: 1534420453
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CubeYellowParticle: {fileID: 198383308968064550, guid: 42edea1767a16445891bf13643a7693b,
+      type: 2}
+  - CubeBlueParticle: {fileID: 198436156128647388, guid: e410d1b4a94a4480484ef667c953e7d6,
+      type: 2}
+  - CubeGreenParticle: {fileID: 198722570183397364, guid: 05013cd0a52b94acb9423f8b325551ed,
+      type: 2}
+  - CubePinkParticle: {fileID: 198067288760308430, guid: 534947ae4a2464e7b8e3e2ab4a35c6dc,
+      type: 2}
+  - CubeOrangeParticle: {fileID: 198544971168624834, guid: 949f3ad5193e34812a64763343850387,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
